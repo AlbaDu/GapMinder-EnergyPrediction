@@ -10,7 +10,7 @@
     </data>
   
     <model>
-      <trainRate>0.8</trainRate>
+      <train_rate>0.7</train_rate>
     </model>
   
   </config>
