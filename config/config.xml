@@ -1,0 +1,16 @@
+  <config>
+  
+    <data>
+      <predictors>urban_growth.csv, population_density.csv, energy_person_ratio.csv, population.csv, population_growth.csv</predictors>
+      <sep>,</sep>
+      <target>life_expectancy.csv</target>
+  
+      <country>Australia</country>
+      <year>1990</year>
+    </data>
+  
+    <model>
+      <trainRate>0.8</trainRate>
+    </model>
+  
+  </config>
