@@ -1,7 +1,7 @@
 # GapMinder-EnergyPrediction
 
-Do you know the GAPMINDER FOUNDATION proyect? If the answer is no, you need to take a look at it at https://www.gapminder.org/
-Gapminder's stated mission is 'Fighting devastating ignorance with fact-based worldviews everyone can understand. In their website they share huge amount of data, from all fields (population, health, education, salaries, energy production/consumption...) from almost all the regions of the world and group by years.
+Do you know the GAPMINDER FOUNDATION project? 
+If the answer is no, you need to take a look at it at https://www.gapminder.org/ Gapminder's stated mission is 'Fighting devastating ignorance with fact-based worldviews everyone can understand. In their website they share huge amount of data, from all fields (population, health, education, salaries, energy production/consumption...) from almost all the regions of the world and group by years.
 
 In this project, the objective is to determine with machine learning techniques, a prediction of an unregistered data, based on correlations of differents variables.
 
