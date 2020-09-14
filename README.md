@@ -14,4 +14,4 @@ In this project, the objective is to determine with machine learning techniques,
   
   
 Data obtained thru the GapMinder Foundation website. [https://www.gapminder.org/data/]
-I want to thank my teachers and classmates from The Bridge for helping me doing this project, that started as past of the DATASCIENCE bootcamp, and was ended during the month of September 2020.
+I want to thank my teachers and classmates from The Bridge for helping me doing this project, that started as past of the DATASCIENCE bootcamp, and I am currently ending it during the month of September 2020.
